@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Bamin";
+  src: url(./assets/fonts/BMJUA_ttf.ttf) format("truetype");
+}
+@font-face {
+  font-family: "SeoulLight";
+  src: url(./assets/fonts/SeoulLight.ttf) format("truetype");
+}
+@font-face {
+  font-family: "SeoulMedium";
+  src: url(./assets/fonts/SeoulMedium.ttf) format("truetype");
+}
