@@ -4,8 +4,8 @@ import styled from "styled-components";
 
 const StyledText = styled.p`
   font-size: ${(props) => props.fontSize || "15px"};
-  color: ${(props) => props.fontColor};
-  font-family: ${(props) => props.fontFamily || "Bamin"};
+  color: ${(props) => props.fontColor || "#E7EFED"};
+  font-family: ${(props) => props.fontFamily || "SeoulLight"};
   font-weight: ${(props) => props.fontWeight};
 
   margin: 0;
