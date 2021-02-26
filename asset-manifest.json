@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/artist-became-coiner/static/css/main.bcb38067.chunk.css",
-    "main.js": "/artist-became-coiner/static/js/main.59c32066.chunk.js",
-    "main.js.map": "/artist-became-coiner/static/js/main.59c32066.chunk.js.map",
+    "main.css": "/artist-became-coiner/static/css/main.c34dc259.chunk.css",
+    "main.js": "/artist-became-coiner/static/js/main.57c122b7.chunk.js",
+    "main.js.map": "/artist-became-coiner/static/js/main.57c122b7.chunk.js.map",
     "runtime-main.js": "/artist-became-coiner/static/js/runtime-main.42e18d7d.js",
     "runtime-main.js.map": "/artist-became-coiner/static/js/runtime-main.42e18d7d.js.map",
-    "static/js/2.5d7caff5.chunk.js": "/artist-became-coiner/static/js/2.5d7caff5.chunk.js",
-    "static/js/2.5d7caff5.chunk.js.map": "/artist-became-coiner/static/js/2.5d7caff5.chunk.js.map",
+    "static/js/2.dedbc04f.chunk.js": "/artist-became-coiner/static/js/2.dedbc04f.chunk.js",
+    "static/js/2.dedbc04f.chunk.js.map": "/artist-became-coiner/static/js/2.dedbc04f.chunk.js.map",
     "index.html": "/artist-became-coiner/index.html",
-    "static/css/main.bcb38067.chunk.css.map": "/artist-became-coiner/static/css/main.bcb38067.chunk.css.map",
-    "static/js/2.5d7caff5.chunk.js.LICENSE.txt": "/artist-became-coiner/static/js/2.5d7caff5.chunk.js.LICENSE.txt",
+    "static/css/main.c34dc259.chunk.css.map": "/artist-became-coiner/static/css/main.c34dc259.chunk.css.map",
+    "static/js/2.dedbc04f.chunk.js.LICENSE.txt": "/artist-became-coiner/static/js/2.dedbc04f.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/artist-became-coiner/static/media/SeoulMedium.9f35dd69.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.42e18d7d.js",
-    "static/js/2.5d7caff5.chunk.js",
-    "static/css/main.bcb38067.chunk.css",
-    "static/js/main.59c32066.chunk.js"
+    "static/js/2.dedbc04f.chunk.js",
+    "static/css/main.c34dc259.chunk.css",
+    "static/js/main.57c122b7.chunk.js"
   ]
 }
